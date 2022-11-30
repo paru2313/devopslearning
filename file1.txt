@@ -1,2 +1,6 @@
 this is my file1
+<<<<<<< HEAD
 created vinod file1
+=======
+this my next file4
+>>>>>>> d5f2703614fe3da79eb72edc1ef8df999b207800
