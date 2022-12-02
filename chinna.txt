@@ -1,3 +1,8 @@
 live your dreams
+<<<<<<< HEAD
 i am a indian 
 dont dream your deaam
+=======
+i am a indian
+dont dream your life
+>>>>>>> 0f57810170bf7110b7f6e28a771a6385e83284d9
